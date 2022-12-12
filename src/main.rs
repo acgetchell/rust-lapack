@@ -1,3 +1,5 @@
+extern crate lapack;
+extern crate openblas_src;
 use lapack::*;
 
 fn main() {
